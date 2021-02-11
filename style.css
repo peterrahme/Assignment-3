@@ -1,0 +1,44 @@
+#a {
+  text-align: center;
+  font-size: 55px;
+  color: aliceblue;
+  background-color: black;
+  padding: 20px;
+  margin: 20px;
+}
+
+.x {
+  height: 40%;
+  width: 40%;
+  float: left;
+}
+
+#t {
+  font-size: 40px;
+  color: red;
+}
+
+#d {
+  color: white;
+  font-size: 55px;
+  text-align: center;
+  padding: 40px;
+  margin: 20px;
+  border-width: 10px;
+  border-style: dotted;
+  background-color: blue;
+}
+
+#e {
+  font-size: 40px;
+  color: green;
+}
+
+#f {
+  background-color: yellow;
+}
+
+#g {
+  font-size: 55px;
+  color: purple;
+}
